@@ -5,9 +5,9 @@
 I'm a passionate **Software Developer** from Bangladesh with a love for learning and building impactful software.  
 I describe myself as a **"Forever Student"** — always exploring new technologies and improving my craft.
 
-- 🎓 **B.Sc. in Computer Science and Engineering** (First-Class CGPA)
 - 💻 Professional experience in **JavaScript, Vue.js, Nuxt.js, Quasar Framework**
 - 🛠️ Skilled in **PHP (Laravel)**, REST APIs, and full-stack development
+- 🎓 **B.Sc. in Computer Science and Engineering** (First-Class CGPA)
 - 🌱 Currently learning and experimenting with new frameworks and technologies
 
 ---
