@@ -57,13 +57,19 @@ I build software that solves business problems. I work across planning, architec
         <a href="https://juniv.edu/"><img src="assets/education/ju-round.svg" alt="Jahangirnagar University logo" width="44" height="44"></a>
       </td>
       <td valign="middle">
-        <div><sub>Jahangirnagar University<br>MSc in progress</sub></div>
+        <div>Jahangirnagar University<br>MSc in progress</div>
       </td>
       <td align="center" valign="middle" width="64">
         <a href="https://seu.edu.bd/"><img src="assets/education/seu-round.svg" alt="Southeast University logo" width="44" height="44"></a>
       </td>
       <td valign="middle">
-        <div><sub>Southeast University<br>BSc completed<br>CGPA 3.89</sub></div>
+        <div>Southeast University<br>BSc completed<br>CGPA 3.89</div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" width="64">🏫</td>
+      <td colspan="3" valign="middle">
+        <div>St. Joseph Higher Secondary School<br>HSC</div>
       </td>
     </tr>
   </table>
