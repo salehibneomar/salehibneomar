@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">From idea to impact</title>
+<desc id="desc">Product development: plan, architect, build, ship.</desc>
+<rect x="1" y="1" width="1198" height="318" rx="20" fill="#0d1117" stroke="#263444"/>
+<path d="M880 1V319M960 1V319M1040 1V319M1120 1V319M800 80H1199M800 160H1199M800 240H1199" stroke="#263444" opacity=".45"/>
+<rect x="48" y="42" width="8" height="8" rx="4" fill="#63e6be"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="68" y="53" fill="#9ba9ba" font-size="14" font-weight="600" letter-spacing="3">PRODUCT MINDSET. ENGINEERING CRAFT.</text>
+<text x="48" y="134" fill="#f0f6fc" font-size="60" font-weight="700" letter-spacing="-2">From idea</text>
+<text x="48" y="204" fill="#63e6be" font-size="60" font-weight="700" letter-spacing="-2">to impact.</text>
+<text x="50" y="270" fill="#9ba9ba" font-size="17">PLAN  /  ARCHITECT  /  BUILD  /  SHIP</text>
+</g>
+<rect x="788" y="60" width="336" height="200" rx="16" fill="#111e25" stroke="#263444"/>
+<circle cx="814" cy="84" r="4" fill="#63e6be"/>
+<circle cx="830" cy="84" r="4" fill="#9ba9ba" opacity=".5"/>
+<circle cx="846" cy="84" r="4" fill="#9ba9ba" opacity=".3"/>
+<path d="M789 104H1123" stroke="#263444"/>
+<g stroke="#63e6be" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M900 145L877 166L900 187M1012 145L1035 166L1012 187M967 135L945 197"/>
+</g>
+<text x="956" y="233" text-anchor="middle" fill="#9ba9ba" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" letter-spacing="2">FULL STACK + AI</text>
+</svg>
