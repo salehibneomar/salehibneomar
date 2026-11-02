@@ -15,7 +15,7 @@
   <a href="https://salehibneomar.infinityfreeapp.com/experiences"><img src="assets/badges/experience.svg" alt="Explore my experience"></a>
 </p>
 
-I build **software that solves business problems**. I work across planning, architecture, development, deployment, and launch. Right now, I'm **building my own products** and using AI throughout the process.
+I build software that solves business problems. I work across planning, architecture, development, deployment, and launch. Right now, I'm building my own products and using AI throughout the process.
 
 <div align="center">
   <table>
@@ -23,7 +23,7 @@ I build **software that solves business problems**. I work across planning, arch
       <td align="center" width="25%">
         <div>
           <h3>💼 3 years</h3>
-          <p>Professional experience</p>
+          <p>Software Engineer<br>Full-time, office-based</p>
         </div>
       </td>
       <td align="center" width="25%">
@@ -57,14 +57,14 @@ I build **software that solves business problems**. I work across planning, arch
         <div>
           <a href="https://juniv.edu/"><img src="assets/education/ju-round.svg" alt="Jahangirnagar University logo" width="56" height="56"></a>
           <h3>Jahangirnagar University</h3>
-          <p>MSc<br><strong>Currently pursuing</strong></p>
+          <p>MSc<br>Currently pursuing</p>
         </div>
       </td>
       <td align="center" valign="top" width="50%">
         <div>
           <a href="https://seu.edu.bd/"><img src="assets/education/seu-round.svg" alt="Southeast University logo" width="56" height="56"></a>
           <h3>Southeast University</h3>
-          <p>BSc completed<br><strong>CGPA 3.89</strong></p>
+          <p>BSc completed<br>CGPA 3.89</p>
         </div>
       </td>
     </tr>
@@ -72,7 +72,7 @@ I build **software that solves business problems**. I work across planning, arch
 </div>
 
 **📘 Project management training · Udemy**<br>
-Completed **The Project Management Course: Beginner to PROject Manager**.
+Completed The Project Management Course: Beginner to PROject Manager.
 
 [More about my education →](https://salehibneomar.infinityfreeapp.com/education)
 
@@ -85,9 +85,9 @@ Completed **The Project Management Course: Beginner to PROject Manager**.
 
 ## 🤝 Leadership & delivery
 
-I can **manage projects, lead teams, and mentor junior developers**. I'm used to working in **fast-paced Agile and Scrum teams**, setting priorities together and adapting when requirements change.
+I can manage projects, lead teams, and mentor junior developers. I'm used to working in fast-paced Agile and Scrum teams, setting priorities together and adapting when requirements change.
 
-I can pick up **new tools and technologies on demand** and adapt to what a project needs.
+I can pick up new tools and technologies on demand and adapt to what a project needs.
 
 ## 🛠️ Technologies I work with
 
@@ -103,7 +103,7 @@ I can pick up **new tools and technologies on demand** and adapt to what a proje
   <img src="assets/icons/CPP.svg" width="48" height="48" alt="C++" title="C++">
 </p>
 
-PHP · JavaScript · Python · Java · **C++**
+PHP · JavaScript · Python · Java · C++
 
 **Frameworks & interfaces**
 
@@ -114,7 +114,7 @@ PHP · JavaScript · Python · Java · **C++**
   <img src="assets/icons/React-Dark.svg" width="48" height="48" alt="React" title="React">
 </p>
 
-Laravel · Vue.js · Nuxt · React · **Quasar**
+Laravel · Vue.js · Nuxt · React · Quasar
 
 **Data, infrastructure & deployment**
 
@@ -127,9 +127,9 @@ Laravel · Vue.js · Nuxt · React · **Quasar**
   <img src="assets/icons/Vercel-Dark.svg" width="48" height="48" alt="Vercel" title="Vercel">
 </p>
 
-MySQL · PostgreSQL · Redis · Caching · **cPanel · Vercel · Laravel Cloud**
+MySQL · PostgreSQL · Redis · Caching · cPanel · Vercel · Laravel Cloud
 
-🐧 I use **Ubuntu** every day and also have experience with **Windows and macOS**. My deployment experience spans shared hosting, managed and serverless platforms, and manually configuring a complete Linux development environment to operate like a VPS.
+🐧 I use Ubuntu every day and also have experience with Windows and macOS. My deployment experience spans shared hosting, managed and serverless platforms, and manually configuring a complete Linux development environment to operate like a VPS.
 
 ### 🌱 Currently learning
 
@@ -138,7 +138,7 @@ MySQL · PostgreSQL · Redis · Caching · **cPanel · Vercel · Laravel Cloud**
   <img src="assets/icons/NestJS-Dark.svg" width="48" height="48" alt="NestJS, currently learning" title="Learning NestJS">
 </p>
 
-Expanding my toolkit with **Flutter** and **NestJS**.
+Expanding my toolkit with Flutter and NestJS.
 
 ### 🤖 My AI development workspace
 
@@ -149,13 +149,13 @@ Expanding my toolkit with **Flutter** and **NestJS**.
   <img src="assets/badges/copilot.svg" alt="Copilot Pro">
 </p>
 
-I use AI tools to help **plan, build, and launch products**. I stay responsible for the technical decisions and the quality of what I ship.
+I use AI tools to help plan, build, and launch products. I stay responsible for the technical decisions and the quality of what I ship.
 
 **I design projects so AI agents can work with them effectively.**
 
-- 🗂️ I give projects **clear structure and boundaries** so agents can find the right code and make focused changes.
-- 📋 I write **project rules and coding conventions** to help agents produce more accurate, consistent work and use fewer tokens.
-- ✍️ I write **detailed prompts** that explain the business problem, architecture, constraints, and expected result so agents have the context they need.
+- 🗂️ I give projects clear structure and boundaries so agents can find the right code and make focused changes.
+- 📋 I write project rules and coding conventions to help agents produce more accurate, consistent work and use fewer tokens.
+- ✍️ I write detailed prompts that explain the business problem, architecture, constraints, and expected result so agents have the context they need.
 
 ## 📊 GitHub activity
 
@@ -180,14 +180,14 @@ I use AI tools to help **plan, build, and launch products**. I stay responsible 
 
 ## ⚙️ Engineering principles
 
-- 🧩 I keep code **clean and maintainable**, with clear responsibilities and reusable frontend components.
-- ⚡ I build **scalable, efficient backends** and choose databases and caching strategies to fit the workload.
-- 🔐 I use **environment-based configuration** with `.env` files to keep settings separate from application code.
-- 🎯 I take **ownership of the product**, from understanding the problem to shipping the solution and supporting its launch.
+- 🧩 I keep code clean and maintainable, with clear responsibilities and reusable frontend components.
+- ⚡ I build scalable, efficient backends and choose databases and caching strategies to fit the workload.
+- 🔐 I use environment-based configuration with `.env` files to keep settings separate from application code.
+- 🎯 I take ownership of the product, from understanding the problem to shipping the solution and supporting its launch.
 
 ## 🧠 Problem-solving foundations
 
-I've solved **400+ programming problems** and started developing projects with **PHP in 2018**. That foundation shapes how I break down business problems and design practical solutions.
+I've solved 400+ programming problems and started developing projects with PHP in 2018. That foundation shapes how I break down business problems and design practical solutions.
 
 [My problem-solving journey →](https://salehibneomar.infinityfreeapp.com/problem-solving)
 
