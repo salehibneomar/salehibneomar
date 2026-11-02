@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
-  <img alt="From idea to impact — plan, architect, build, ship." src="assets/profile-banner-light.svg" width="100%">
+  <img alt="From idea to impact. Plan, architect, build, ship." src="assets/profile-banner-light.svg" width="100%">
 </picture>
 
 <h1 align="center">Hi, I'm Saleh Ibne Omar 👋</h1>
 <p align="center">
   <strong>Product Engineer · Solution Architect · Full-Stack Developer</strong><br>
-  🇧🇩 Bangladesh &nbsp; · &nbsp; 🐧 Ubuntu daily driver &nbsp; · &nbsp; 🎓 Forever a student
+  🇧🇩 Bangladesh   ·   🐧 Ubuntu daily driver   ·   🎓 Forever a student
 </p>
 
 <p align="center">
@@ -15,26 +15,61 @@
   <a href="https://salehibneomar.infinityfreeapp.com/experiences"><img src="assets/badges/experience.svg" alt="Explore my experience"></a>
 </p>
 
-I turn **business problems into complete software products**, from planning and architecture to development, deployment, and launch. Right now, I'm **building my own products**, combining full-stack engineering with AI-powered workflows.
+I build **software that solves business problems**. I work across planning, architecture, development, deployment, and launch. Right now, I'm **building my own products** and using AI throughout the process.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/highlights-dark.svg">
-  <img alt="3 years of professional experience · 2 years of freelance experience · 400+ programming problems solved · First PHP projects in 2018" src="assets/highlights-light.svg" width="100%">
-</picture>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <div>
+          <h3>💼 3 years</h3>
+          <p>Professional experience</p>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div>
+          <h3>💻 2 years</h3>
+          <p>Freelance experience</p>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div>
+          <h3>🧠 400+</h3>
+          <p>Problems solved</p>
+        </div>
+      </td>
+      <td align="center" width="25%">
+        <div>
+          <h3>🌱 2018</h3>
+          <p>First PHP projects</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🎓 Education & professional development
 
-<p align="center">
-  <a href="https://juniv.edu/"><img src="assets/education/ju.png" alt="Jahangirnagar University logo" height="96"></a><br>
-  <strong>Jahangirnagar University</strong><br>
-  MSc · <strong>Currently pursuing</strong>
-</p>
-
-<p align="center">
-  <a href="https://seu.edu.bd/"><img src="assets/education/seu.png" alt="Southeast University logo" height="96"></a><br>
-  <strong>Southeast University</strong><br>
-  BSc · Completed · <strong>CGPA 3.89</strong>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <div>
+          <a href="https://juniv.edu/"><img src="assets/education/ju-round.svg" alt="Jahangirnagar University logo" width="56" height="56"></a>
+          <h3>Jahangirnagar University</h3>
+          <p>MSc<br><strong>Currently pursuing</strong></p>
+        </div>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <div>
+          <a href="https://seu.edu.bd/"><img src="assets/education/seu-round.svg" alt="Southeast University logo" width="56" height="56"></a>
+          <h3>Southeast University</h3>
+          <p>BSc completed<br><strong>CGPA 3.89</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 **📘 Project management training · Udemy**<br>
 Completed **The Project Management Course: Beginner to PROject Manager**.
@@ -45,18 +80,18 @@ Completed **The Project Management Course: Beginner to PROject Manager**.
 
 | 🏗️ Product engineering | 🧠 AI-powered solutions |
 | :--- | :--- |
-| End-to-end ownership: business needs, planning, architecture, development, and deployment. | LLM integration, retrieval-augmented generation (RAG), and AI features that solve business problems. |
-| Scalable backends, reusable frontend components, databases, caching, and Redis. | AI-assisted product planning and launch content, including social posts and promotional graphics. |
+| I take products from understanding the business need through planning, architecture, development, and deployment. | I integrate LLMs and retrieval-augmented generation (RAG) to solve practical business problems. |
+| I build scalable backends and reusable interfaces, with databases, caching, and Redis where they fit. | I also use AI for product planning and launch content, including social posts and promotional graphics. |
 
 ## 🤝 Leadership & delivery
 
-I can **manage projects, lead teams, and mentor junior developers**, connecting business goals with technical execution. I'm used to **fast-paced environments that use Agile and Scrum**, collaborating on priorities and adapting as requirements evolve.
+I can **manage projects, lead teams, and mentor junior developers**. I'm used to working in **fast-paced Agile and Scrum teams**, setting priorities together and adapting when requirements change.
 
-I adapt to **new tools and technologies on demand**, choosing and learning what the project needs.
+I can pick up **new tools and technologies on demand** and adapt to what a project needs.
 
 ## 🛠️ Technologies I work with
 
-<!-- Skill icons by tandpfun/skill-icons (MIT); license retained in assets/icons/LICENSE. -->
+<!-- Skill icons by tandpfun/skill-icons (MIT). License retained in assets/icons/LICENSE. -->
 
 **Languages**
 
@@ -94,13 +129,13 @@ Laravel · Vue.js · Nuxt · React · **Quasar**
 
 MySQL · PostgreSQL · Redis · Caching · **cPanel · Vercel · Laravel Cloud**
 
-🐧 **Ubuntu** is my primary OS; I also work with **Windows and macOS**. My deployment experience spans shared hosting, managed and serverless platforms, and manually configuring a complete Linux development environment to operate like a VPS.
+🐧 I use **Ubuntu** every day and also have experience with **Windows and macOS**. My deployment experience spans shared hosting, managed and serverless platforms, and manually configuring a complete Linux development environment to operate like a VPS.
 
 ### 🌱 Currently learning
 
 <p>
-  <img src="assets/icons/Flutter-Dark.svg" width="48" height="48" alt="Flutter — currently learning" title="Learning Flutter">
-  <img src="assets/icons/NestJS-Dark.svg" width="48" height="48" alt="NestJS — currently learning" title="Learning NestJS">
+  <img src="assets/icons/Flutter-Dark.svg" width="48" height="48" alt="Flutter, currently learning" title="Learning Flutter">
+  <img src="assets/icons/NestJS-Dark.svg" width="48" height="48" alt="NestJS, currently learning" title="Learning NestJS">
 </p>
 
 Expanding my toolkit with **Flutter** and **NestJS**.
@@ -114,17 +149,17 @@ Expanding my toolkit with **Flutter** and **NestJS**.
   <img src="assets/badges/copilot.svg" alt="Copilot Pro">
 </p>
 
-I use agentic development tools throughout **planning, implementation, and launch**, combining AI-assisted delivery with engineering judgment and ownership of the final product.
+I use AI tools to help **plan, build, and launch products**. I stay responsible for the technical decisions and the quality of what I ship.
 
-**AI-agent-friendly architecture is part of how I build:**
+**I design projects so AI agents can work with them effectively.**
 
-- 🗂️ **Clear project structure and boundaries** help agents navigate the codebase and make focused changes.
-- 📋 **Project rules and engineering conventions** give agents consistent guidance, aiming to improve accuracy and output quality while reducing unnecessary token usage.
-- ✍️ **Detailed, context-rich prompts** explain the business problem, project architecture, constraints, and expected outcomes so AI can understand the project better.
+- 🗂️ I give projects **clear structure and boundaries** so agents can find the right code and make focused changes.
+- 📋 I write **project rules and coding conventions** to help agents produce more accurate, consistent work and use fewer tokens.
+- ✍️ I write **detailed prompts** that explain the business problem, architecture, constraints, and expected result so agents have the context they need.
 
 ## 📊 GitHub activity
 
-<!-- Generated from real public GitHub contributions; refreshed by .github/workflows/contributions.yml. -->
+<!-- Generated from public GitHub contributions. Refreshed by .github/workflows/contributions.yml. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
   <img alt="My GitHub contribution heatmap over the past year" src="assets/contributions-light.svg" width="100%">
@@ -145,10 +180,10 @@ I use agentic development tools throughout **planning, implementation, and launc
 
 ## ⚙️ Engineering principles
 
-- 🧩 **Clean, maintainable code** — clear responsibilities and reusable frontend components.
-- ⚡ **Scalable, efficient backends** — deliberate database, caching, and architecture choices.
-- 🔐 **Environment-based configuration** — `.env` files keep settings separate from application code.
-- 🎯 **Product ownership** — understand the problem, design the solution, ship it, and support the launch.
+- 🧩 I keep code **clean and maintainable**, with clear responsibilities and reusable frontend components.
+- ⚡ I build **scalable, efficient backends** and choose databases and caching strategies to fit the workload.
+- 🔐 I use **environment-based configuration** with `.env` files to keep settings separate from application code.
+- 🎯 I take **ownership of the product**, from understanding the problem to shipping the solution and supporting its launch.
 
 ## 🧠 Problem-solving foundations
 
@@ -160,7 +195,7 @@ I've solved **400+ programming problems** and started developing projects with *
 
 <p align="center">
   <strong>💡 Have a business problem or a product idea? Let's build something useful.</strong><br><br>
-  <a href="https://bd.linkedin.com/in/salehibneomar">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="https://salehibneomar.infinityfreeapp.com/">Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://bd.linkedin.com/in/salehibneomar">LinkedIn</a>   ·
+  <a href="https://salehibneomar.infinityfreeapp.com/">Portfolio</a>   ·
   <a href="https://www.slideshare.net/SalehIbneOmar">SlideShare</a>
 </p>
