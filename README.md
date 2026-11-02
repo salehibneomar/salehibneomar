@@ -53,18 +53,16 @@ I build software that solves business problems. I work across planning, architec
 <div align="center">
   <table>
     <tr>
-      <td align="center" valign="top" width="50%">
+      <td valign="middle" width="50%">
         <div>
-          <a href="https://juniv.edu/"><img src="assets/education/ju-round.svg" alt="Jahangirnagar University logo" width="56" height="56"></a>
-          <h3>Jahangirnagar University</h3>
-          <p>MSc<br>Currently pursuing</p>
+          <a href="https://juniv.edu/"><img align="left" src="assets/education/ju-round.svg" alt="Jahangirnagar University logo" width="44" height="44" hspace="8"></a>
+          <sub>Jahangirnagar University<br>MSc in progress</sub>
         </div>
       </td>
-      <td align="center" valign="top" width="50%">
+      <td valign="middle" width="50%">
         <div>
-          <a href="https://seu.edu.bd/"><img src="assets/education/seu-round.svg" alt="Southeast University logo" width="56" height="56"></a>
-          <h3>Southeast University</h3>
-          <p>BSc completed<br>CGPA 3.89</p>
+          <a href="https://seu.edu.bd/"><img align="left" src="assets/education/seu-round.svg" alt="Southeast University logo" width="44" height="44" hspace="8"></a>
+          <sub>Southeast University<br>BSc completed<br>CGPA 3.89</sub>
         </div>
       </td>
     </tr>
