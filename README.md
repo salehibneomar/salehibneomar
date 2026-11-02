@@ -74,7 +74,7 @@ I build software that solves business problems. I work across planning, architec
         <div>St. Joseph Higher Secondary School<br>HSC</div>
       </td>
       <td align="center" valign="middle" width="64">
-        <a href="https://www.bbnsc.edu.bd/"><img src="assets/education/bbn.jpg" alt="Banani Bidyaniketan School logo" width="44" height="44"></a>
+        <a href="https://www.bbnsc.edu.bd/"><img src="assets/education/bbn-round.png" alt="Banani Bidyaniketan School logo" width="44" height="44"></a>
       </td>
       <td valign="middle">
         <div>Banani Bidyaniketan School<br>SSC</div>
