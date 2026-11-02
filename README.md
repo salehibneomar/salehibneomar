@@ -72,6 +72,12 @@ I build software that solves business problems. I work across planning, architec
         <div>St. Joseph Higher Secondary School<br>HSC</div>
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="middle" width="64">🏫</td>
+      <td colspan="3" valign="middle">
+        <div>Banani Bidyaniketan School<br>SSC</div>
+      </td>
+    </tr>
   </table>
 </div>
 
