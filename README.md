@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Saleh Ibne Omar 👋</h1>
 <p align="center">
-  <strong>Product Developer · Solution Architect · Full-Stack Developer</strong><br>
+  <strong>Product Engineer · Solution Architect · Full-Stack Developer</strong><br>
   🇧🇩 Bangladesh &nbsp; · &nbsp; 🐧 Ubuntu daily driver &nbsp; · &nbsp; 🎓 Forever a student
 </p>
 
@@ -22,12 +22,37 @@ I turn **business problems into complete software products**, from planning and 
   <img alt="3 years of professional experience · 2 years of freelance experience · 400+ programming problems solved · First PHP projects in 2018" src="assets/highlights-light.svg" width="100%">
 </picture>
 
+## 🎓 Education & professional development
+
+<p align="center">
+  <a href="https://juniv.edu/"><img src="assets/education/ju.png" alt="Jahangirnagar University logo" height="96"></a><br>
+  <strong>Jahangirnagar University</strong><br>
+  MSc · <strong>Currently pursuing</strong>
+</p>
+
+<p align="center">
+  <a href="https://seu.edu.bd/"><img src="assets/education/seu.png" alt="Southeast University logo" height="96"></a><br>
+  <strong>Southeast University</strong><br>
+  BSc · Completed · <strong>CGPA 3.89</strong>
+</p>
+
+**📘 Project management training · Udemy**<br>
+Completed **The Project Management Course: Beginner to PROject Manager**.
+
+[More about my education →](https://salehibneomar.infinityfreeapp.com/education)
+
 ## 🚀 From problem to product
 
 | 🏗️ Product engineering | 🧠 AI-powered solutions |
 | :--- | :--- |
 | End-to-end ownership: business needs, planning, architecture, development, and deployment. | LLM integration, retrieval-augmented generation (RAG), and AI features that solve business problems. |
 | Scalable backends, reusable frontend components, databases, caching, and Redis. | AI-assisted product planning and launch content, including social posts and promotional graphics. |
+
+## 🤝 Leadership & delivery
+
+I can **manage projects, lead teams, and mentor junior developers**, connecting business goals with technical execution. I'm used to **fast-paced environments that use Agile and Scrum**, collaborating on priorities and adapting as requirements evolve.
+
+I adapt to **new tools and technologies on demand**, choosing and learning what the project needs.
 
 ## 🛠️ Technologies I work with
 
@@ -40,7 +65,10 @@ I turn **business problems into complete software products**, from planning and 
   <img src="assets/icons/JavaScript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">
   <img src="assets/icons/Python-Dark.svg" width="48" height="48" alt="Python" title="Python">
   <img src="assets/icons/Java-Dark.svg" width="48" height="48" alt="Java" title="Java">
+  <img src="assets/icons/CPP.svg" width="48" height="48" alt="C++" title="C++">
 </p>
+
+PHP · JavaScript · Python · Java · **C++**
 
 **Frameworks & interfaces**
 
@@ -68,6 +96,15 @@ MySQL · PostgreSQL · Redis · Caching · **cPanel · Vercel · Laravel Cloud**
 
 🐧 **Ubuntu** is my primary OS; I also work with **Windows and macOS**. My deployment experience spans shared hosting, managed and serverless platforms, and manually configuring a complete Linux development environment to operate like a VPS.
 
+### 🌱 Currently learning
+
+<p>
+  <img src="assets/icons/Flutter-Dark.svg" width="48" height="48" alt="Flutter — currently learning" title="Learning Flutter">
+  <img src="assets/icons/NestJS-Dark.svg" width="48" height="48" alt="NestJS — currently learning" title="Learning NestJS">
+</p>
+
+Expanding my toolkit with **Flutter** and **NestJS**.
+
 ### 🤖 My AI development workspace
 
 <p>
@@ -78,6 +115,12 @@ MySQL · PostgreSQL · Redis · Caching · **cPanel · Vercel · Laravel Cloud**
 </p>
 
 I use agentic development tools throughout **planning, implementation, and launch**, combining AI-assisted delivery with engineering judgment and ownership of the final product.
+
+**AI-agent-friendly architecture is part of how I build:**
+
+- 🗂️ **Clear project structure and boundaries** help agents navigate the codebase and make focused changes.
+- 📋 **Project rules and engineering conventions** give agents consistent guidance, aiming to improve accuracy and output quality while reducing unnecessary token usage.
+- ✍️ **Detailed, context-rich prompts** explain the business problem, project architecture, constraints, and expected outcomes so AI can understand the project better.
 
 ## 📊 GitHub activity
 
@@ -107,16 +150,11 @@ I use agentic development tools throughout **planning, implementation, and launc
 - 🔐 **Environment-based configuration** — `.env` files keep settings separate from application code.
 - 🎯 **Product ownership** — understand the problem, design the solution, ship it, and support the launch.
 
-## 🎓 Education & problem solving
+## 🧠 Problem-solving foundations
 
-| | Journey |
-| :--- | :--- |
-| 🎓 **MSc** | **Jahangirnagar University** · In progress |
-| 🏅 **BSc** | **Southeast University** · Completed · **CGPA 3.89** |
-| 🧠 **Problem solving** | **400+ programming problems solved** |
-| 🌱 **The beginning** | Started developing projects with **PHP in 2018** |
+I've solved **400+ programming problems** and started developing projects with **PHP in 2018**. That foundation shapes how I break down business problems and design practical solutions.
 
-[Education →](https://salehibneomar.infinityfreeapp.com/education) · [Problem-solving journey →](https://salehibneomar.infinityfreeapp.com/problem-solving)
+[My problem-solving journey →](https://salehibneomar.infinityfreeapp.com/problem-solving)
 
 ---
 
