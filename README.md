@@ -23,7 +23,7 @@ I build software that solves business problems. I work across planning, architec
       <td align="center" width="25%">
         <div>
           <h3>💼 3 years</h3>
-          <p>Software Engineer<br>Full-time, office-based</p>
+          <p>Full-time office based</p>
         </div>
       </td>
       <td align="center" width="25%">
@@ -53,17 +53,17 @@ I build software that solves business problems. I work across planning, architec
 <div align="center">
   <table>
     <tr>
-      <td valign="middle" width="50%">
-        <div>
-          <a href="https://juniv.edu/"><img align="left" src="assets/education/ju-round.svg" alt="Jahangirnagar University logo" width="44" height="44" hspace="8"></a>
-          <sub>Jahangirnagar University<br>MSc in progress</sub>
-        </div>
+      <td align="center" valign="middle" width="64">
+        <a href="https://juniv.edu/"><img src="assets/education/ju-round.svg" alt="Jahangirnagar University logo" width="44" height="44"></a>
       </td>
-      <td valign="middle" width="50%">
-        <div>
-          <a href="https://seu.edu.bd/"><img align="left" src="assets/education/seu-round.svg" alt="Southeast University logo" width="44" height="44" hspace="8"></a>
-          <sub>Southeast University<br>BSc completed<br>CGPA 3.89</sub>
-        </div>
+      <td valign="middle">
+        <div><sub>Jahangirnagar University<br>MSc in progress</sub></div>
+      </td>
+      <td align="center" valign="middle" width="64">
+        <a href="https://seu.edu.bd/"><img src="assets/education/seu-round.svg" alt="Southeast University logo" width="44" height="44"></a>
+      </td>
+      <td valign="middle">
+        <div><sub>Southeast University<br>BSc completed<br>CGPA 3.89</sub></div>
       </td>
     </tr>
   </table>
