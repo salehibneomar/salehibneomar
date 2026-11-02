@@ -67,14 +67,16 @@ I build software that solves business problems. I work across planning, architec
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle" width="64">🏫</td>
-      <td colspan="3" valign="middle">
+      <td align="center" valign="middle" width="64">
+        <a href="https://www.sjs.edu.bd/"><img src="assets/education/sjs-round.svg" alt="St. Joseph Higher Secondary School logo" width="44" height="44"></a>
+      </td>
+      <td valign="middle">
         <div>St. Joseph Higher Secondary School<br>HSC</div>
       </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle" width="64">🏫</td>
-      <td colspan="3" valign="middle">
+      <td align="center" valign="middle" width="64">
+        <a href="https://www.bbnsc.edu.bd/"><img src="assets/education/bbn-round.svg" alt="Banani Bidyaniketan School logo" width="44" height="44"></a>
+      </td>
+      <td valign="middle">
         <div>Banani Bidyaniketan School<br>SSC</div>
       </td>
     </tr>
