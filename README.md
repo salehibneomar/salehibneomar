@@ -155,10 +155,13 @@ Expanding my toolkit with Flutter and NestJS.
 ### 🤖 My AI development workspace
 
 <p>
-  <img src="assets/badges/claude.svg" alt="Claude" width="32" height="32">
-  <img src="assets/badges/chatgpt.svg" alt="ChatGPT" width="32" height="32">
-  <img src="assets/badges/gemini.svg" alt="Gemini" width="32" height="32">
-  <img src="assets/badges/copilot.svg" alt="Copilot" width="32" height="32">
+  <span><img src="assets/badges/claude.svg" alt="Claude logo" width="28" height="28"> <strong>Claude</strong> · Pro</span>
+  &nbsp;&nbsp;
+  <span><img src="assets/badges/chatgpt.svg" alt="ChatGPT logo" width="28" height="28"> <strong>ChatGPT</strong> · Plus</span>
+  &nbsp;&nbsp;
+  <span><img src="assets/badges/gemini.svg" alt="Gemini logo" width="28" height="28"> <strong>Gemini</strong> · Pro</span>
+  &nbsp;&nbsp;
+  <span><img src="assets/badges/copilot.svg" alt="Copilot logo" width="28" height="28"> <strong>Copilot</strong> · Pro</span>
 </p>
 
 I use AI tools to help plan, build, and launch products. I stay responsible for the technical decisions and the quality of what I ship.
